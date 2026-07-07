@@ -65,7 +65,8 @@
 | 资产 | 内容 |
 |---|---|
 | Mountree品牌社媒营销方案 初版 1.canvas | 已整理为 [[跨境项目组检索/08 Mountree 社媒营销方案\|08 Mountree 社媒营销方案]]，包含红人筛选漏斗、Instagram / Pinterest / TikTok / Facebook 平台矩阵和内容脚本库 |
-| Mountree 核心资产与跨境电商项目记忆库 | 已整理为 [[09 Mountree 独立站点推进\|09 Mountree 独立站点推进]]，作为当前高优先级事实源 |
+| Mountree 核心资产与跨境电商项目记忆库 | 已整理为 [[跨境项目组检索/09 Mountree 独立站\|09 Mountree 独立站]]，作为当前高优先级事实源 |
+| Mountree 项目文件夹 | 已整理为 [[跨境项目组检索/26 Mountree 项目原始文件索引\|26 Mountree 项目原始文件索引]]，包含 PPT、鞋底 PDF、社媒 SOP、画像场景和社媒路线图 |
 
 
 ## 已生成视觉资产
@@ -106,4 +107,6 @@
 - [[跨境项目组检索/04 Mountree 渠道与营销\|04 Mountree 渠道与营销]]
 - [[跨境项目组检索/05 Mountree 视觉与文案系统\|05 Mountree 视觉与文案系统]]
 - [[跨境项目组检索/08 Mountree 社媒营销方案\|08 Mountree 社媒营销方案]]
-- [[09 Mountree 独立站点推进\|09 Mountree 独立站点推进]]
+- [[跨境项目组检索/09 Mountree 独立站\|09 Mountree 独立站]]
+- [[跨境项目组检索/22 Mountree 鞋底设计与图案规格资产\|22 Mountree 鞋底设计与图案规格资产]]
+- [[跨境项目组检索/26 Mountree 项目原始文件索引\|26 Mountree 项目原始文件索引]]
