@@ -76,6 +76,19 @@ body {
     line-height: 1.72;
   }
 
+  aside,
+  .sidebar {
+    display: none !important;
+  }
+
+  @media (min-width: 1001px) {
+    .content {
+      width: min(920px, calc(100vw - 392px));
+      margin-left: 344px !important;
+      margin-right: 48px !important;
+    }
+  }
+
   .content h1 {
     color: var(--mountree-green-deep);
     font-family: Georgia, "Times New Roman", serif;
@@ -202,16 +215,6 @@ body {
     border-color: var(--mountree-line) !important;
     color: var(--mountree-green-deep) !important;
     background: rgba(255, 253, 248, 0.88) !important;
-  }
-
-  .sidebar {
-    color: var(--mountree-muted);
-  }
-
-  .sidebar h1,
-  .sidebar h2,
-  .sidebar h3 {
-    color: var(--mountree-green);
   }
 
   @media (max-width: 999px) {
