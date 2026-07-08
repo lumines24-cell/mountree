@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"//18-impact-ltk/","tags":["Mountree","impact.com","LTK","Affiliate","红人营销","Shopify"],"dg-note-properties":{"type":"channel_tool_reference","brand":"Mountree","status":"active-reference","source":"impact.com 与 LTK 的区别","tags":["Mountree","impact.com","LTK","Affiliate","红人营销","Shopify"]}}
+{"dg-publish":true,"permalink":"//18-impact-ltk/","tags":["Mountree","LTK","Affiliate","红人营销","Shopify"],"dg-note-properties":{"type":"channel_tool_reference","brand":"Mountree","status":"active-reference","source":"impact.com 与 LTK 的区别","tags":["Mountree","LTK","Affiliate","红人营销","Shopify"]}}
 ---
 
 
-# Impact.com 与 LTK 联盟红人平台对比
+# Impact 与 LTK 联盟红人平台对比
 
 ## 资料属性
 
