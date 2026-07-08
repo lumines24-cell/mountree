@@ -1,13 +1,236 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  --mountree-green: #2f5a36;
+  --mountree-green-deep: #1f3f2a;
+  --mountree-moss: #7d9271;
+  --mountree-sage: #d7e0d0;
+  --mountree-ivory: #f7f5ef;
+  --mountree-paper: #fffdf8;
+  --mountree-ink: #243027;
+  --mountree-muted: #6d746b;
+  --mountree-line: rgba(47, 90, 54, 0.18);
+  --mountree-shadow: 0 18px 48px rgba(31, 63, 42, 0.12);
+
+  background:
+    linear-gradient(180deg, rgba(215, 224, 208, 0.78), rgba(247, 245, 239, 0.96) 340px),
+    var(--mountree-ivory);
+  color: var(--mountree-ink);
+  font-family: "Avenir Next", Avenir, Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0;
+
+  &.theme-dark {
+    --background-primary: var(--mountree-paper);
+    --background-secondary: #eef2ea;
+    --background-secondary-alt: #e5ebdf;
+    --text-normal: var(--mountree-ink);
+    --text-muted: var(--mountree-muted);
+    --text-faint: #8b9388;
+    --text-accent: var(--mountree-green);
+    --interactive-accent: var(--mountree-green);
+    --link-color: var(--mountree-green);
+    --link-color-hover: var(--mountree-green-deep);
+    --table-border-color: var(--mountree-line);
+  }
+
+  .navbar,
+  .filetree-sidebar {
+    background: rgba(255, 253, 248, 0.92);
+    border-color: var(--mountree-line);
+    box-shadow: 0 10px 32px rgba(31, 63, 42, 0.08);
+    backdrop-filter: blur(18px);
+  }
+
+  .navbar {
+    border-bottom: 1px solid var(--mountree-line);
+  }
+
+  .navbar-inner,
+  .filetree-sidebar > a {
+    min-height: 76px;
+  }
+
+  .site-logo {
+    max-width: 210px;
+    max-height: 64px;
+    object-fit: contain;
+    margin: 16px auto 10px;
+  }
+
+  .navbar h1,
+  .filetree-sidebar h1 {
+    color: var(--mountree-green);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  .content {
+    max-width: 920px;
+    margin-top: 38px;
+    margin-bottom: 80px;
+    padding: 48px 56px;
+    background: rgba(255, 253, 248, 0.88);
+    border: 1px solid var(--mountree-line);
+    border-radius: 6px;
+    box-shadow: var(--mountree-shadow);
+    line-height: 1.72;
+  }
+
+  .content h1 {
+    color: var(--mountree-green-deep);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.18;
+    margin-bottom: 18px;
+  }
+
+  .content h1::after {
+    content: "";
+    display: block;
+    width: 72px;
+    height: 2px;
+    margin-top: 18px;
+    background: var(--mountree-green);
+  }
+
+  .content h2 {
+    color: var(--mountree-green);
+    font-size: 23px;
+    font-weight: 650;
+    margin-top: 38px;
+    padding-top: 18px;
+    border-top: 1px solid var(--mountree-line);
+  }
+
+  .content h3 {
+    color: var(--mountree-green-deep);
+    font-size: 18px;
+    font-weight: 650;
+    margin-top: 28px;
+  }
+
+  .content p,
+  .content li,
+  .content td {
+    font-size: 16px;
+  }
+
+  .content blockquote {
+    border-left: 3px solid var(--mountree-green);
+    background: rgba(215, 224, 208, 0.42);
+    color: var(--mountree-green-deep);
+    margin: 24px 0;
+    padding: 14px 18px;
+  }
+
+  .internal-link,
+  .external-link {
+    color: var(--mountree-green);
+    text-decoration-color: rgba(47, 90, 54, 0.35);
+    text-underline-offset: 3px;
+  }
+
+  .internal-link:hover,
+  .external-link:hover {
+    color: var(--mountree-green-deep);
+    text-decoration-color: var(--mountree-green-deep);
+  }
+
+  .table-wrapper {
+    border: 1px solid var(--mountree-line);
+    border-radius: 6px;
+    overflow: hidden;
+    background: var(--mountree-paper);
+  }
+
+  table {
+    margin: 0;
+  }
+
+  th {
+    background: #e7ede2;
+    color: var(--mountree-green-deep);
+    font-weight: 650;
+  }
+
+  td,
+  th {
+    border-color: var(--mountree-line) !important;
+  }
+
+  code {
+    color: var(--mountree-green-deep);
+    background: rgba(215, 224, 208, 0.58);
+    border-radius: 4px;
+    padding: 0.12em 0.34em;
+  }
+
+  .filetree-sidebar {
+    width: 300px;
+    padding: 16px 16px 28px;
+  }
+
+  .filetree-sidebar .folder {
+    color: var(--mountree-ink);
+  }
+
+  .filename,
+  .foldername {
+    color: var(--mountree-muted);
+    font-size: 14px;
+  }
+
+  .notelink {
+    border-radius: 6px;
+    padding: 2px 4px;
+  }
+
+  .notelink:hover,
+  .active-note {
+    background: rgba(215, 224, 208, 0.66);
+  }
+
+  .active-note .filename {
+    color: var(--mountree-green-deep);
+    font-weight: 650;
+  }
+
+  .search-button,
+  button {
+    border-radius: 6px !important;
+    border-color: var(--mountree-line) !important;
+    color: var(--mountree-green-deep) !important;
+    background: rgba(255, 253, 248, 0.88) !important;
+  }
+
+  .sidebar {
+    color: var(--mountree-muted);
+  }
+
+  .sidebar h1,
+  .sidebar h2,
+  .sidebar h3 {
+    color: var(--mountree-green);
+  }
+
+  @media (max-width: 999px) {
+    .content {
+      margin: 18px 12px 56px;
+      padding: 30px 22px;
+      border-radius: 6px;
+    }
+
+    .content h1 {
+      font-size: 31px;
+    }
+
+    .content h2 {
+      font-size: 21px;
+    }
+
+    .site-logo {
+      max-width: 170px;
+    }
+  }
 }
