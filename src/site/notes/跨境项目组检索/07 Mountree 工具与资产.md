@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/07-mountree","permalink":"/mountree/07-mountree/","tags":["Mountree","工具","资产","AI工作流"],"dg-note-properties":{"type":"asset_system","brand":"Mountree","status":"working-memory","tags":["Mountree","工具","资产","AI工作流"]}}
+{"dg-publish":true,"dg-path":"mountree/07-mountree","permalink":"/mountree/07-mountree/","tags":["Mountree","工具","资产","AI工作流"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"asset_system","brand":"Mountree","status":"working-memory","tags":["Mountree","工具","资产","AI工作流"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/01-mountree","permalink":"/mountree/01-mountree/","tags":["Mountree","品牌定位","纯素女鞋"],"dg-note-properties":{"type":"brand_profile","brand":"Mountree","status":"working-memory","tags":["Mountree","品牌定位","纯素女鞋"]}}
+{"dg-publish":true,"dg-path":"mountree/01-mountree","permalink":"/mountree/01-mountree/","tags":["Mountree","品牌定位","纯素女鞋"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"brand_profile","brand":"Mountree","status":"working-memory","tags":["Mountree","品牌定位","纯素女鞋"]}}
 ---
 
 

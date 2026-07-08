@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/02-mountree","permalink":"/mountree/02-mountree/","tags":["Mountree","产品线","鞋履技术","材料"],"dg-note-properties":{"type":"product_strategy","brand":"Mountree","status":"working-memory","tags":["Mountree","产品线","鞋履技术","材料"]}}
+{"dg-publish":true,"dg-path":"mountree/02-mountree","permalink":"/mountree/02-mountree/","tags":["Mountree","产品线","鞋履技术","材料"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"product_strategy","brand":"Mountree","status":"working-memory","tags":["Mountree","产品线","鞋履技术","材料"]}}
 ---
 
 

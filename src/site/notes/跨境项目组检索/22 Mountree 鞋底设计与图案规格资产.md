@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/22-sole-design","permalink":"/mountree/22-sole-design/","tags":["Mountree","鞋底设计","产品规格"],"dg-note-properties":{"type":"design-asset","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/鞋底设计0625.pdf"],"tags":["Mountree","鞋底设计","产品规格"]}}
+{"dg-publish":true,"dg-path":"mountree/22-sole-design","permalink":"/mountree/22-sole-design/","tags":["Mountree","鞋底设计","产品规格"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"design-asset","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/鞋底设计0625.pdf"],"tags":["Mountree","鞋底设计","产品规格"]}}
 ---
 
 

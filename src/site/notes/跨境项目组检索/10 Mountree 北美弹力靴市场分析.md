@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/10-mountree","permalink":"/mountree/10-mountree/","tags":["Mountree","弹力靴","瘦瘦靴","北美市场","Amazon","NarrowCalf","秋冬旺季"],"dg-note-properties":{"type":"market_research","brand":"Mountree","status":"active-reference","source":"亚马逊北美市场秋冬旺季弹力靴（瘦瘦靴）准入、高净值窄筒需求与供应链技术融合深度研究报告","tags":["Mountree","弹力靴","瘦瘦靴","北美市场","Amazon","NarrowCalf","秋冬旺季"]}}
+{"dg-publish":true,"dg-path":"mountree/10-mountree","permalink":"/mountree/10-mountree/","tags":["Mountree","弹力靴","瘦瘦靴","北美市场","Amazon","NarrowCalf","秋冬旺季"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"market_research","brand":"Mountree","status":"active-reference","source":"亚马逊北美市场秋冬旺季弹力靴（瘦瘦靴）准入、高净值窄筒需求与供应链技术融合深度研究报告","tags":["Mountree","弹力靴","瘦瘦靴","北美市场","Amazon","NarrowCalf","秋冬旺季"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/14-ftc","permalink":"/mountree/14-ftc/","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"],"dg-note-properties":{"type":"compliance_checklist","brand":"Mountree","status":"active-reference","source":"美国 FTC 对环保虚假宣传的严查及企业合规要求","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"]}}
+{"dg-publish":true,"dg-path":"mountree/14-ftc","permalink":"/mountree/14-ftc/","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"compliance_checklist","brand":"Mountree","status":"active-reference","source":"美国 FTC 对环保虚假宣传的严查及企业合规要求","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"]}}
 ---
 
 

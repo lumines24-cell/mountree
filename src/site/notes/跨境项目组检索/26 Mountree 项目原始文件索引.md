@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/26-asset-index","permalink":"/mountree/26-asset-index/","tags":["Mountree","项目资产","文件索引"],"dg-note-properties":{"type":"asset-index","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/"],"tags":["Mountree","项目资产","文件索引"]}}
+{"dg-publish":true,"dg-path":"mountree/26-asset-index","permalink":"/mountree/26-asset-index/","tags":["Mountree","项目资产","文件索引"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"asset-index","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/"],"tags":["Mountree","项目资产","文件索引"]}}
 ---
 
 

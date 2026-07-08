@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/00-mountree","permalink":"/mountree/00-mountree/","tags":["Mountree","品牌记忆","Obsidian","gardenEntry"],"dg-note-properties":{"type":"index","brand":"Mountree","created":"2026-07-07","source":"Claude/Codex 整理","tags":["Mountree","品牌记忆","Obsidian","gardenEntry"]}}
+{"dg-publish":true,"dg-path":"mountree/00-mountree","permalink":"/mountree/00-mountree/","tags":["Mountree","品牌记忆","Obsidian","gardenEntry"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"index","brand":"Mountree","created":"2026-07-07","source":"Claude/Codex 整理","tags":["Mountree","品牌记忆","Obsidian","gardenEntry"]}}
 ---
 
 

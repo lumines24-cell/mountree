@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/08-mountree","permalink":"/mountree/08-mountree/","tags":["Mountree","社媒营销","红人营销","内容脚本","Instagram","Pinterest","TikTok","Facebook"],"dg-note-properties":{"type":"social_media_strategy","brand":"Mountree","status":"imported-from-canvas","source":"Mountree品牌社媒营销方案 初版 1.canvas","tags":["Mountree","社媒营销","红人营销","内容脚本","Instagram","Pinterest","TikTok","Facebook"]}}
+{"dg-publish":true,"dg-path":"mountree/08-mountree","permalink":"/mountree/08-mountree/","tags":["Mountree","社媒营销","红人营销","内容脚本","Instagram","Pinterest","TikTok","Facebook"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"social_media_strategy","brand":"Mountree","status":"imported-from-canvas","source":"Mountree品牌社媒营销方案 初版 1.canvas","tags":["Mountree","社媒营销","红人营销","内容脚本","Instagram","Pinterest","TikTok","Facebook"]}}
 ---
 
 

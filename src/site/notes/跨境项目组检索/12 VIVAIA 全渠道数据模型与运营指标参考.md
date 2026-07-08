@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/12-vivaia","permalink":"/mountree/12-vivaia/","tags":["Mountree","VIVAIA","渠道数据","GMV","ROAS","退货率"],"dg-note-properties":{"type":"benchmark_data_model","brand":"Mountree","status":"reference-needs-verification","source":"VIVAIA 2024 年全渠道数据深度拆解分析","tags":["Mountree","VIVAIA","渠道数据","GMV","ROAS","退货率"]}}
+{"dg-publish":true,"dg-path":"mountree/12-vivaia","permalink":"/mountree/12-vivaia/","tags":["Mountree","VIVAIA","渠道数据","GMV","ROAS","退货率"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"benchmark_data_model","brand":"Mountree","status":"reference-needs-verification","source":"VIVAIA 2024 年全渠道数据深度拆解分析","tags":["Mountree","VIVAIA","渠道数据","GMV","ROAS","退货率"]}}
 ---
 
 

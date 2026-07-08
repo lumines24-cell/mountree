@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/05-mountree","permalink":"/mountree/05-mountree/","tags":["Mountree","视觉系统","文案","Logo"],"dg-note-properties":{"type":"visual_copy_system","brand":"Mountree","status":"working-memory","tags":["Mountree","视觉系统","文案","Logo"]}}
+{"dg-publish":true,"dg-path":"mountree/05-mountree","permalink":"/mountree/05-mountree/","tags":["Mountree","视觉系统","文案","Logo"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"visual_copy_system","brand":"Mountree","status":"working-memory","tags":["Mountree","视觉系统","文案","Logo"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/25-social-roadmap","permalink":"/mountree/25-social-roadmap/","tags":["Mountree","社媒运营","渠道优先级","TikTok","Pinterest","Instagram"],"dg-note-properties":{"type":"channel-strategy","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/社媒运营路线规划.png","/Users/kamikaze/Downloads/Mountree 项目/Mountree北美市场整合大纲_4.pptx"],"tags":["Mountree","社媒运营","渠道优先级","TikTok","Pinterest","Instagram"]}}
+{"dg-publish":true,"dg-path":"mountree/25-social-roadmap","permalink":"/mountree/25-social-roadmap/","tags":["Mountree","社媒运营","渠道优先级","TikTok","Pinterest","Instagram"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"channel-strategy","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/社媒运营路线规划.png","/Users/kamikaze/Downloads/Mountree 项目/Mountree北美市场整合大纲_4.pptx"],"tags":["Mountree","社媒运营","渠道优先级","TikTok","Pinterest","Instagram"]}}
 ---
 
 
