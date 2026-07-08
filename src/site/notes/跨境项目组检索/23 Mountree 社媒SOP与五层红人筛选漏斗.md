@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//23-mountree-sop/","tags":["Mountree","社媒SOP","红人筛选","内容矩阵"],"dg-note-properties":{"type":"sop","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/mountree 品牌社媒SOP.png"],"tags":["Mountree","社媒SOP","红人筛选","内容矩阵"]}}
+{"dg-publish":true,"dg-path":"mountree/23-social-sop","permalink":"/mountree/23-social-sop/","tags":["Mountree","社媒SOP","红人筛选","内容矩阵"],"dg-note-properties":{"type":"sop","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/mountree 品牌社媒SOP.png"],"tags":["Mountree","社媒SOP","红人筛选","内容矩阵"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//21-mountree/","tags":["Mountree","北美市场","弹力靴","旺季打法"],"dg-note-properties":{"type":"strategy","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/Mountree北美市场整合大纲_4.pptx"],"tags":["Mountree","北美市场","弹力靴","旺季打法"]}}
+{"dg-publish":true,"dg-path":"mountree/21-market-playbook","permalink":"/mountree/21-market-playbook/","tags":["Mountree","北美市场","弹力靴","旺季打法"],"dg-note-properties":{"type":"strategy","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/Mountree北美市场整合大纲_4.pptx"],"tags":["Mountree","北美市场","弹力靴","旺季打法"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//03-mountree/","tags":["Mountree","北美市场","客群","女鞋"],"dg-note-properties":{"type":"market_strategy","brand":"Mountree","status":"working-memory","tags":["Mountree","北美市场","客群","女鞋"]}}
+{"dg-publish":true,"dg-path":"mountree/03-mountree","permalink":"/mountree/03-mountree/","tags":["Mountree","北美市场","客群","女鞋"],"dg-note-properties":{"type":"market_strategy","brand":"Mountree","status":"working-memory","tags":["Mountree","北美市场","客群","女鞋"]}}
 ---
 
 

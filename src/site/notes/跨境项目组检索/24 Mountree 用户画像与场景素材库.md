@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//24-mountree/","tags":["Mountree","用户画像","场景","北美市场"],"dg-note-properties":{"type":"persona","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/画像场景.png","/Users/kamikaze/Downloads/Mountree 项目/Mountree北美市场整合大纲_4.pptx"],"tags":["Mountree","用户画像","场景","北美市场"]}}
+{"dg-publish":true,"dg-path":"mountree/24-persona-scenes","permalink":"/mountree/24-persona-scenes/","tags":["Mountree","用户画像","场景","北美市场"],"dg-note-properties":{"type":"persona","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/画像场景.png","/Users/kamikaze/Downloads/Mountree 项目/Mountree北美市场整合大纲_4.pptx"],"tags":["Mountree","用户画像","场景","北美市场"]}}
 ---
 
 

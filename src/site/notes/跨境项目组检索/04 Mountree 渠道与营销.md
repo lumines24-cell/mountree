@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//04-mountree/","tags":["Mountree","渠道策略","TikTok","Amazon","Shopify"],"dg-note-properties":{"type":"channel_strategy","brand":"Mountree","status":"working-memory","tags":["Mountree","渠道策略","TikTok","Amazon","Shopify"]}}
+{"dg-publish":true,"dg-path":"mountree/04-mountree","permalink":"/mountree/04-mountree/","tags":["Mountree","渠道策略","TikTok","Amazon","Shopify"],"dg-note-properties":{"type":"channel_strategy","brand":"Mountree","status":"working-memory","tags":["Mountree","渠道策略","TikTok","Amazon","Shopify"]}}
 ---
 
 

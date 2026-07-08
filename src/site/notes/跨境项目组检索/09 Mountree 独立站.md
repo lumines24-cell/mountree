@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"//09-mountree/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"mountree/09-mountree","permalink":"/mountree/09-mountree/","dg-note-properties":{}}
 ---
 

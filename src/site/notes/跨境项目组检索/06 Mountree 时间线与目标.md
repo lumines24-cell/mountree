@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//06-mountree/","tags":["Mountree","时间线","目标"],"dg-note-properties":{"type":"roadmap","brand":"Mountree","status":"working-memory","tags":["Mountree","时间线","目标"]}}
+{"dg-publish":true,"dg-path":"mountree/06-mountree","permalink":"/mountree/06-mountree/","tags":["Mountree","时间线","目标"],"dg-note-properties":{"type":"roadmap","brand":"Mountree","status":"working-memory","tags":["Mountree","时间线","目标"]}}
 ---
 
 
