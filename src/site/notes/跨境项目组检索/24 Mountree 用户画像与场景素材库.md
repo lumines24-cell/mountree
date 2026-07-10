@@ -36,8 +36,6 @@
 
 适配产品：
 
-- Willow 弹力贴腿靴
-- 低跟 / 猫跟弹力靴
 - 具备科技材料叙事的通勤鞋
 
 ### 严苛 Dress Code 职场
@@ -65,10 +63,8 @@
 
 适配产品：
 
-- Aspen 膝高弹力靴
 - Laurel 尖头跟鞋
 - Magnolia 细跟鞋
-- Willow 中筒 / 踝靴
 
 ### 环保美学引领者
 
@@ -94,7 +90,6 @@
 
 适配产品：
 
-- Aspen 视觉系弹力靴
 - Viridis / Desserto 材料故事款
 - Instagram / Pinterest 视觉种草内容
 
@@ -123,7 +118,6 @@
 
 适配产品：
 
-- Willow 功能系弹力靴
 - Rowan 乐福鞋
 - Hazel 玛丽珍鞋
 - 材料透明化页面和长文内容
@@ -145,7 +139,6 @@
 - `City Walk Test`：城市步行、通勤、久站测试。
 - `Corporate Fits`：一周职场穿搭。
 - `Quiet Power Dressing`：克制但有气场的职场穿搭。
-- `Fit Without the Gap`：弹力靴无空隙贴合。
 - `Comfort You Can See`：气垫、足弓、护趾结构可视化。
 
 ## 身材表达边界
@@ -177,5 +170,3 @@
 - [[跨境项目组检索/03 Mountree 市场与客群\|03 Mountree 市场与客群]]
 - [[跨境项目组检索/05 Mountree 视觉与文案系统\|05 Mountree 视觉与文案系统]]
 - [[跨境项目组检索/08 Mountree 社媒营销方案\|08 Mountree 社媒营销方案]]
-- [[跨境项目组检索/10 Mountree 北美弹力靴市场分析\|10 Mountree 北美弹力靴市场分析]]
-- [[跨境项目组检索/21 Mountree 北美市场整合大纲与旺季打法\|21 Mountree 北美市场整合大纲与旺季打法]]
