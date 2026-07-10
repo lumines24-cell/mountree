@@ -70,7 +70,6 @@ Mountree Logo 特征：
 
 > Walk Strong. Bend Gracefully.
 
-
 ## 关键英文文案
 
 ### 品牌一句话
