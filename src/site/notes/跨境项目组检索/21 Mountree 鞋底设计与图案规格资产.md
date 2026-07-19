@@ -1,0 +1,54 @@
+---
+{"dg-publish":true,"dg-path":"mountree/22-sole-design","permalink":"/mountree/22-sole-design/","tags":["Mountree","鞋底设计","产品规格"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"type":"design-asset","brand":"Mountree","created":"2026-07-07","source":["/Users/kamikaze/Downloads/Mountree 项目/鞋底设计0625.pdf"],"tags":["Mountree","鞋底设计","产品规格"]}}
+---
+
+
+# Mountree 鞋底设计与图案规格资产
+
+## 文件定位
+
+本笔记整理自 `鞋底设计0625.pdf`。该 PDF 主要是鞋底图案和底部标识设计资产，文字信息较少，适合作为产品设计规格归档。
+
+## 已提取信息
+
+- 鞋底图案设计包含品牌 Slogan：`Walk Strong, Bend Gracefully`
+- 鞋底标注包含：`US 6`
+- 鞋底标注包含：`Made In China`
+- 鞋底规格图中出现长度信息：`228mm`
+- 图案区域出现尺寸：`41mm`
+
+## 设计用途
+
+该文件可用于：
+
+- 鞋底图案打样确认
+- 鞋底模具 / 压纹沟通
+- 大底品牌标识位置确认
+- 鞋码与产地标识规范参考
+- 后续产品规格表和供应商沟通附件
+
+## 需确认事项
+
+- `228mm` 是否对应 US 6 的鞋底长度。
+- `41mm` 是否为品牌图案或局部标识区域尺寸。
+- Slogan 在鞋底上的方向、可读性和耐磨后识别度。
+- `Made In China` 标识是否符合目标市场进口和标签要求。
+- 不同尺码是否需要同比缩放图案，还是使用统一标识尺寸。
+
+## 合规提醒
+
+- 产地标识、鞋码标识、材质标识需结合美国进口和销售要求确认。
+- 若鞋底或整鞋使用植物基、可回收、可降解等表达，必须回到 [[跨境项目组检索/14 FTC 环保宣传合规\|14 FTC 环保宣传合规]] 和 [[跨境项目组检索/16 鞋类税号申报与美国进口合规风险\|16 鞋类税号申报与美国进口合规风险]] 做校验。
+
+## 原始文件
+
+`/Users/kamikaze/Downloads/Mountree 项目/鞋底设计0625.pdf`
+
+## 内部链接
+
+- [[跨境项目组检索/00 Mountree 品牌记忆索引\|00 Mountree 品牌记忆索引]]
+- [[跨境项目组检索/03 Mountree 产品与技术\|03 Mountree 产品与技术]]
+- [[跨境项目组检索/06 Mountree 视觉与文案系统\|06 Mountree 视觉与文案系统]]
+- [[跨境项目组检索/08 Mountree 工具与资产\|08 Mountree 工具与资产]]
+- [[跨境项目组检索/16 鞋类税号申报与美国进口合规风险\|16 鞋类税号申报与美国进口合规风险]]
+- [[跨境项目组检索/20 植物基鞋底材质与采购验收参考\|20 植物基鞋底材质与采购验收参考]]

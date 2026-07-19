@@ -101,6 +101,6 @@ VIVAIA 切入两个海外需求：
 ## 内部链接
 
 - [[跨境项目组检索/00 Mountree 品牌记忆索引\|00 Mountree 品牌记忆索引]]
-- [[跨境项目组检索/03 Mountree 市场与客群\|03 Mountree 市场与客群]]
-- [[跨境项目组检索/04 Mountree 渠道与营销\|04 Mountree 渠道与营销]]
+- [[跨境项目组检索/04 Mountree 市场与客群\|04 Mountree 市场与客群]]
+- [[跨境项目组检索/05 Mountree 渠道与营销\|05 Mountree 渠道与营销]]
 
