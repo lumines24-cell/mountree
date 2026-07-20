@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/06-prompt/","title":"场景口播 Prompt","tags":["AI视频","Prompt","场景口播"],"dg-note-properties":{"title":"场景口播 Prompt","tags":["AI视频","Prompt","场景口播"]}}
+{"dg-publish":true,"permalink":"/prompt/video/06-scene/","title":"场景口播 Prompt","tags":["AI视频","Prompt","场景口播"],"dg-note-properties":{"title":"场景口播 Prompt","tags":["AI视频","Prompt","场景口播"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/01-prompt/","title":"对镜拍 Prompt","tags":["AI视频","Prompt","对镜拍"],"dg-note-properties":{"title":"对镜拍 Prompt","tags":["AI视频","Prompt","对镜拍"]}}
+{"dg-publish":true,"permalink":"/prompt/video/01-mirror/","title":"对镜拍 Prompt","tags":["AI视频","Prompt","对镜拍"],"dg-note-properties":{"title":"对镜拍 Prompt","tags":["AI视频","Prompt","对镜拍"]}}
 ---
 
 

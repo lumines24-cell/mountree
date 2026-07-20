@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/07-prompt/","title":"运动挑战 Prompt（视觉概念）","tags":["AI视频","Prompt","运动挑战","安全"],"dg-note-properties":{"title":"运动挑战 Prompt（视觉概念）","tags":["AI视频","Prompt","运动挑战","安全"]}}
+{"dg-publish":true,"permalink":"/prompt/video/07-motion/","title":"运动挑战 Prompt（视觉概念）","tags":["AI视频","Prompt","运动挑战","安全"],"dg-note-properties":{"title":"运动挑战 Prompt（视觉概念）","tags":["AI视频","Prompt","运动挑战","安全"]}}
 ---
 
 

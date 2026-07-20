@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/02-prompt/","title":"开箱 Prompt","tags":["AI视频","Prompt","开箱"],"dg-note-properties":{"title":"开箱 Prompt","tags":["AI视频","Prompt","开箱"]}}
+{"dg-publish":true,"permalink":"/prompt/video/02-unboxing/","title":"开箱 Prompt","tags":["AI视频","Prompt","开箱"],"dg-note-properties":{"title":"开箱 Prompt","tags":["AI视频","Prompt","开箱"]}}
 ---
 
 

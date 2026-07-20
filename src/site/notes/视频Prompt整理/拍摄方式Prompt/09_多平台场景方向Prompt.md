@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/09-prompt/","title":"多平台场景方向视频 Prompt","tags":["AI视频","Prompt","场景","多平台","Mountree"],"dg-note-properties":{"title":"多平台场景方向视频 Prompt","tags":["AI视频","Prompt","场景","多平台","Mountree"],"updated":"2026-07-16"}}
+{"dg-publish":true,"permalink":"/prompt/video/09-platform-scenes/","title":"多平台场景方向视频 Prompt","tags":["AI视频","Prompt","场景","多平台","Mountree"],"dg-note-properties":{"title":"多平台场景方向视频 Prompt","tags":["AI视频","Prompt","场景","多平台","Mountree"],"updated":"2026-07-16"}}
 ---
 
 

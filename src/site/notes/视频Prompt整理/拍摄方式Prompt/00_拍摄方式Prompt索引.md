@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/00-prompt/","title":"视频 Prompt：拍摄方式索引","tags":["AI视频","Prompt","Mountree"],"dg-note-properties":{"title":"视频 Prompt：拍摄方式索引","tags":["AI视频","Prompt","Mountree"],"updated":"2026-07-16"}}
+{"dg-publish":true,"permalink":"/prompt/video/00-shooting-index/","title":"视频 Prompt：拍摄方式索引","tags":["AI视频","Prompt","Mountree"],"dg-note-properties":{"title":"视频 Prompt：拍摄方式索引","tags":["AI视频","Prompt","Mountree"],"updated":"2026-07-16"}}
 ---
 
 

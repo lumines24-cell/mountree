@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/03-ugc-prompt/","title":"UGC Prompt","tags":["AI视频","Prompt","UGC"],"dg-note-properties":{"title":"UGC Prompt","tags":["AI视频","Prompt","UGC"]}}
+{"dg-publish":true,"permalink":"/prompt/video/03-ugc/","title":"UGC Prompt","tags":["AI视频","Prompt","UGC"],"dg-note-properties":{"title":"UGC Prompt","tags":["AI视频","Prompt","UGC"]}}
 ---
 
 

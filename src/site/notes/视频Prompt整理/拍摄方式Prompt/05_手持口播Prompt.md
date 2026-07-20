@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/05-prompt/","title":"手持口播 Prompt","tags":["AI视频","Prompt","手持口播"],"dg-note-properties":{"title":"手持口播 Prompt","tags":["AI视频","Prompt","手持口播"]}}
+{"dg-publish":true,"permalink":"/prompt/video/05-handheld/","title":"手持口播 Prompt","tags":["AI视频","Prompt","手持口播"],"dg-note-properties":{"title":"手持口播 Prompt","tags":["AI视频","Prompt","手持口播"]}}
 ---
 
 

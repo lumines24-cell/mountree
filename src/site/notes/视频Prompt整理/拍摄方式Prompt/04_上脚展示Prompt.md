@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/prompt/04-prompt/","title":"上脚展示 Prompt","tags":["AI视频","Prompt","上脚展示"],"dg-note-properties":{"title":"上脚展示 Prompt","tags":["AI视频","Prompt","上脚展示"]}}
+{"dg-publish":true,"permalink":"/prompt/video/04-try-on/","title":"上脚展示 Prompt","tags":["AI视频","Prompt","上脚展示"],"dg-note-properties":{"title":"上脚展示 Prompt","tags":["AI视频","Prompt","上脚展示"]}}
 ---
 
 
