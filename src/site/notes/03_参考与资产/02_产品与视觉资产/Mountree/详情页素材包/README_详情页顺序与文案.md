@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03/02/mountree//readme/","title":"Mountree Detail Page Asset Order","dg-note-properties":{"area":"references","title":"Mountree Detail Page Asset Order"}}
+{"dg-publish":true,"dg-permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包/README_详情页顺序与文案/","permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包/README_详情页顺序与文案/","title":"Mountree Detail Page Asset Order","dg-note-properties":{"area":"references","title":"Mountree Detail Page Asset Order"}}
 ---
 
 

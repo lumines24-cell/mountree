@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03/02/mountree/20260720/readme/","dg-note-properties":{"area":"references","type":"reference_index","brand":"Mountree"}}
+{"dg-publish":true,"dg-permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_方图新风格_20260720/README_方图详情页顺序/","permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_方图新风格_20260720/README_方图详情页顺序/","dg-note-properties":{"area":"references","type":"reference_index","brand":"Mountree"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/11-vivaia","permalink":"/mountree/11-vivaia/","tags":["Mountree","VIVAIA","Rothy's","Allbirds","跨境品牌","对标研究"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"area":"market_research","type":"benchmark_research","brand":"Mountree","status":"reference-needs-verification","source":"VIVAIA 跨境市场成长历程分析","tags":["Mountree","VIVAIA","Rothy's","Allbirds","跨境品牌","对标研究"]}}
+{"dg-publish":true,"dg-path":"mountree/11-vivaia","dg-permalink":"/01_市场与研究/01_竞品研究/01_VIVAIA品牌成长与对标/","permalink":"/01_市场与研究/01_竞品研究/01_VIVAIA品牌成长与对标/","tags":["Mountree","VIVAIA","Rothy's","Allbirds","跨境品牌","对标研究"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"area":"market_research","type":"benchmark_research","brand":"Mountree","status":"reference-needs-verification","source":"VIVAIA 跨境市场成长历程分析","tags":["Mountree","VIVAIA","Rothy's","Allbirds","跨境品牌","对标研究"]}}
 ---
 
 

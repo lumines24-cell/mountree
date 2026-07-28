@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03/02/mountree/20260723/readme/","dg-note-properties":{"area":"references","type":"reference_index","brand":"Mountree"}}
+{"dg-publish":true,"dg-permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_黑色尖头粗跟鞋_方图_20260723/README_详情页顺序/","permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_黑色尖头粗跟鞋_方图_20260723/README_详情页顺序/","dg-note-properties":{"area":"references","type":"reference_index","brand":"Mountree"}}
 ---
 
 
