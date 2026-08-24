@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_浅米色低跟尖头鞋_方图_20260720/README_详情页顺序/","permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_浅米色低跟尖头鞋_方图_20260720/README_详情页顺序/","dg-note-properties":{"area":"references","type":"reference_index","brand":"Mountree"}}
+{"dg-publish":true,"dg-permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_浅米色低跟尖头鞋_方图_20260720/README_详情页顺序/","permalink":"/03_参考与资产/02_产品与视觉资产/Mountree/详情页素材包_浅米色低跟尖头鞋_方图_20260720/README_详情页顺序/","title":"Mountree 浅米色低跟尖头鞋方图素材包","dg-note-properties":{"area":"references","owner":"Mountree","updated":"2026-08-02","visibility":"公开","status":"可发布","title":"Mountree 浅米色低跟尖头鞋方图素材包","type":"reference_index","brand":"Mountree"}}
 ---
 
 

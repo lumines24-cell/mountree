@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/04_内容与项目/05_项目与成品/00_Codex生成素材归档规范/","permalink":"/04_内容与项目/05_项目与成品/00_Codex生成素材归档规范/","tags":["Mountree","Codex生成","图片生成","视频生成","素材归档"],"dg-note-properties":{"type":"asset_workflow","area":"content","brand":"Mountree","tags":["Mountree","Codex生成","图片生成","视频生成","素材归档"]}}
+{"dg-publish":true,"dg-permalink":"/04_内容与项目/05_项目与成品/00_Codex生成素材归档规范/","permalink":"/04_内容与项目/05_项目与成品/00_Codex生成素材归档规范/","title":"Codex 生成素材归档规范","tags":["Mountree","Codex生成","图片生成","视频生成","素材归档"],"dg-note-properties":{"type":"asset_workflow","area":"content","owner":"Mountree","updated":"2026-08-02","visibility":"公开","status":"可发布","title":"Codex 生成素材归档规范","brand":"Mountree","tags":["Mountree","Codex生成","图片生成","视频生成","素材归档"]}}
 ---
 
 

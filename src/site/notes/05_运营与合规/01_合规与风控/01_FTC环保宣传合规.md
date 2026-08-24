@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mountree/14-ftc","dg-permalink":"/05_运营与合规/01_合规与风控/01_FTC环保宣传合规/","permalink":"/05_运营与合规/01_合规与风控/01_FTC环保宣传合规/","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"area":"operations_compliance","type":"compliance_checklist","brand":"Mountree","status":"active-reference","source":"美国 FTC 对环保虚假宣传的严查及企业合规要求","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"]}}
+{"dg-publish":true,"dg-path":"mountree/14-ftc","dg-permalink":"/05_运营与合规/01_合规与风控/01_FTC环保宣传合规/","permalink":"/05_运营与合规/01_合规与风控/01_FTC环保宣传合规/","title":"FTC 环保宣传合规与女鞋自查清单","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"],"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"area":"operations_compliance","owner":"Mountree","updated":"2026-08-02","visibility":"公开","title":"FTC 环保宣传合规与女鞋自查清单","type":"compliance_checklist","brand":"Mountree","status":"可发布","source":"美国 FTC 对环保虚假宣传的严查及企业合规要求","tags":["Mountree","FTC","GreenGuides","环保合规","Vegan","Amazon"]}}
 ---
 
 
